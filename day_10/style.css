@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100;
+    width: 100;
+}
+
+
+h1 {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    text-transform:capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 67px;
+
+}
+p {
+    color: black;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight:100;
+    text-align: center;
+    background-color:pink;
+}
