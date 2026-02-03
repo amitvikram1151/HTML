@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    color: pink;
+    background-color: black;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+#box2 {
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+}
+#box1 {
+    height: 400px;
+    width: 400px;
+    /* background: linear-gradient(to right bottom, red 10%,blue, purple); */
+    /* background: radial-gradient(green, orange,red); */
+    /* background: conic-gradient(violet, indigo,blue, green, yellow,orange, red,violet); */
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXQVeY-qRkyTjIDn_zItt73Ou2VjqOn7CQA&s); */
+    background-size: cover;
+
+}
+
+#outter {
+    height: 300px;
+    width: 600px;
+    background-color: aqua;
+}
+#inner {
+    height: 50%;
+    width: 50%;
+    background-color: black;
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: bottom;
+
+}

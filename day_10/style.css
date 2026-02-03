@@ -28,3 +28,29 @@ p {
     text-align: center;
     background-color:pink;
 }
+/* id  */
+#hero {
+    color: green;
+}
+#_101 {
+    color: red;
+}
+ /* class */
+.graphic {
+    color: royalblue;
+    text-align: left;
+    font-style: normal;
+
+}
+div {
+    height: 90px;
+    width: 800px;
+    background-color: green;
+    text-align: center;
+
+}
+#box{
+    background-color: royalblue;
+    height: 40px;
+    width: 40px;
+}
