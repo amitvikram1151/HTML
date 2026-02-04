@@ -6,6 +6,7 @@
 html,body {
     height: 100%;
     width: 100%;
+
 }
 
 h1 {
@@ -49,4 +50,16 @@ h1 {
     background-size: cover;
     background-position: bottom;
 
+}
+
+#box {
+    height: 400px;
+    width: 400px;
+    background-color: salmon;
+    margin: 50px;
+    padding: 40px;
+    color: beige;
+    font-size: 32px;
+    /* border : pixel type of border color */
+    border:2px solid black;
 }
